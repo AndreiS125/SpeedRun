@@ -1,0 +1,12 @@
+name: SpeedRun
+version: '${project.version}'
+main: org.andreis.mc.SpeedRun
+api-version: 1.18
+authors: [ AndreiS ]
+description: Plugin for speedrun
+commands:
+  c: {}
+  setmerunner: {}
+  stop: {}
+  start: {}
+  compas: {}
